@@ -17,7 +17,7 @@ Aspiring full-stack developer passionate about building impactful web applicatio
 ### 💻 Tech Stack:
 - **Frontend**: HTML, CSS, TypeScript, Angular
 - **Backend**: SpringBoot, Java
-- **Database**: MongoDB, SQL
+- **Database**: MongoDB, SQL, Redis
 - **Tools**: Git, VS Code, Docker
 
 ### 📫 Connect With Me:
