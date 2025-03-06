@@ -2,7 +2,7 @@
 
 <table>
 	<tr>
-	  <td><img src="1.gif" style="width:50%; height:auto;"></td>
+	  <td><img src="1.gif" style="width:50%; height:auto;"><img src="2.gif" style="width:50%; height:auto;"></td>
 	</tr>
 </table>
 
