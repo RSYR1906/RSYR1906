@@ -7,12 +7,11 @@
 </table>
 
 ## About Me
-Aspiring full stack developer passionate about building impactful web applications. Currently focusing on expanding my skills across the entire development stack - from responsive front-end designs to robust back-end systems.
+Aspiring full-stack developer passionate about building impactful web applications.
 
 ### 🚀 What I'm Up To:
 - 🌱 Learning modern web frameworks and technologies
 - 💻 Building projects to strengthen my portfolio
-- 🤝 Looking to collaborate on open source projects
 - 📚 Constantly expanding my knowledge base
 
 ### 💻 Tech Stack:
