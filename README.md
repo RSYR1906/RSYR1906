@@ -1,6 +1,6 @@
 <table>
 	<tr>
-	  <td><img src="1.gif" width="500" height="auto"/></td>
+	  <td><img src="1.gif" style="width:100%; height:auto;"></td>
 	</tr>
 </table>
 <!--
