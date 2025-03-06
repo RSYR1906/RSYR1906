@@ -1,4 +1,3 @@
-HELLO!
 <table>
 	<tr>
 	  <td><img src="1.gif"/></td>
