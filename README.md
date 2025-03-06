@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+(https://github.com/RSYR1906/RSYR1906/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true)
 <!--
 **RSYR1906/RSYR1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
